@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2d06a1c9a317a0c4a9562d1afd979b6e
+timeCreated: 1476847551
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - OpenedEnemyWhiteShip: {fileID: 21300018, guid: 52610a5f5f0f8ac40bddff08fba0101f,
+      type: 3}
+  - ClosedEnemyWhiteShip: {fileID: 21300016, guid: 52610a5f5f0f8ac40bddff08fba0101f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
