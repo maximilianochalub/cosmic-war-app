@@ -10,5 +10,5 @@ Based on the classic Space Invaders arcade videogame, this app was designed with
 4. The player's initial state on the game is with three lives.
 5. When the screen shows the game-over mode, the app leads the user to the main menu. 
 
-## Development date
+## Deployment date
 October 28, 2016
